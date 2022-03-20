@@ -1,0 +1,31 @@
+<!doctype html>   //declare document type is html.
+
+<html>            //the beginning of html doc.
+  <head>
+  <meta charset="utf-8">    //declare the use of utf-8
+  
+    <title>       //the title of web
+      Title
+    </title>      //the end of title command
+    
+  </head>         //the end of head command
+  
+  <body>          //from where the content be presented
+    
+    <h1>          //"1" is the number "1". it means the first headline
+      headline 1
+    </h1>         //end of headline 1
+    
+    <p>           //which means paragragh
+      Start your first paragragh
+    </p>
+    
+    <br>          //new a line
+    
+    <a http://www.bing.com>   //input a link
+      (add some words to describe the html)
+    </a>
+    
+    </body>       //the end of the body
+    
+    </html>       //the final of a html doc
